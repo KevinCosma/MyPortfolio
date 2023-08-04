@@ -1,4 +1,30 @@
-.title {
-    color: aqua;
-    background-color: indianred;
+body {
+    background-color:lightblue;
+}
+
+ul.breadcrumb {
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: plum;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: large;
+}
+
+div {
+    padding-bottom: 50px;
 }
