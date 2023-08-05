@@ -18,7 +18,7 @@ ul.breadcrumb {
 }
 
 li {
-    float: center;
+    text-align: center;
 }
 
 a {
@@ -30,17 +30,17 @@ a {
 }
 
 .facts {
-    padding-bottom: 50px;
+    text-align: center;
 }
 
 .skills {
-    padding-bottom: 50px;
+    text-align: center;
 }
 
 .projects {
-    padding-bottom: 50px;
+    text-align: center;
 }
 
 .contact {
-    padding-bottom: 50px;
+    text-align: center;
 }
